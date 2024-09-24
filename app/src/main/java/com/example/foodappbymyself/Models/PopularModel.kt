@@ -5,7 +5,7 @@ import android.widget.ImageView
 class PopularModel{
     private var foodImage : Int? = null
     private var foodName : String = ""
-    private var foodPrice : Int = 0
+    private var foodPrice : Int = 0 //ttttototo
     private var foodPriceConstant : Int = 0
     private var foodCount : Int = 1
 
